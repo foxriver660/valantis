@@ -1,4 +1,5 @@
-**(https://foxriver660.github.io/valantis/)**
+**https://foxriver660.github.io/valantis/**
+
 [Ссылка на задание](https://github.com/ValantisJewelry/TestTaskValantis?tab=readme-ov-file)
 
 1. **Клонирование репозитория:**
